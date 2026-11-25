@@ -2,11 +2,11 @@
 
 [開始遊戲 / Play](https://lishuminglsy-svg.github.io/paws-together/)
 
-HKBU 香港浸會大學 / Hong Kong Baptist University  
-GCAP3087 課程作業 / Course project  
+HKBU 香港浸會大學 / Hong Kong Baptist University
+GCAP3087 課程作業 / Course project
 提供予 HKGDA 香港導盲犬協會使用 / Created for use by HKGDA
 
-創作人 / Creators:  
+創作人 / Creators:
 LI Shuming / Yuan keying / Fan Xiaowen / Cheng Huayan / HU boqian
 
 三條雙語故事路線：茶餐廳、港鐵、樂園；每條五個情境。先選角色、認識阿晴與導盲犬，再依情境詢問、解釋和讓出空間。
@@ -16,3 +16,5 @@ LI Shuming / Yuan keying / Fan Xiaowen / Cheng Huayan / HU boqian
 `index.html` 包含程式和圖像，可直接離線開啟。原公開網址保持不變，既有二維碼繼續使用。
 
 © 2026 創作團隊。第三方標誌及素材的權利歸原權利人所有。詳見 COPYRIGHT.txt。
+
+2026-11-25 R6：茶餐廳、港鐵、樂園各有原創合成循環背景音樂；暫停與切到後台會停止播放，暫停選單可開關聲音。手機豎屏使用緊湊站位，取景涵蓋入口及 NPC 讓路動作；橫屏保持原布局。39 項程序檢查通過；音頻及獨立豎屏構圖已檢查，手機真機交互及揚聲器播放未實測。
