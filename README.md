@@ -7,7 +7,7 @@ GCAP3087 課程作業 / Course project
 提供予 HKGDA 香港導盲犬協會使用 / Created for use by HKGDA
 
 創作人 / Creators:
-LI Shuming / Yuan keying / Fan Xiaowen / Cheng Huayan / HU boqian
+LI Shuming / Yuan keying / Fan Xiaowen / Cheng Huayan / HU boqian / Zhou Zhiyu
 
 三條雙語故事路線：茶餐廳、港鐵、樂園；每條五個情境。先選角色、認識阿晴與導盲犬，再依情境詢問、解釋和讓出空間。
 

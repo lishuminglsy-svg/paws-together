@@ -6,8 +6,8 @@
   <meta name="theme-color" content="#c52d42">
   <meta name="description" content="一起認識導盲犬。選擇茶餐廳、港鐵或樂園，學習怎樣幫忙。">
   <title>一起向前走</title>
-  <meta name="paws-release" content="2026-11-25-r6">
-  <meta name="author" content="LI Shuming / Yuan keying / Fan Xiaowen / Cheng Huayan / HU boqian">
+  <meta name="paws-release" content="2026-11-25-r6-credits">
+  <meta name="author" content="LI Shuming / Yuan keying / Fan Xiaowen / Cheng Huayan / HU boqian / Zhou Zhiyu">
   <link rel="icon" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MCA4MCI+PHJlY3Qgd2lkdGg9IjgwIiBoZWlnaHQ9IjgwIiByeD0iMjIiIGZpbGw9IiNjNTJkNDIiLz48ZyBmaWxsPSIjZmZmNGU2Ij48ZWxsaXBzZSBjeD0iNDAiIGN5PSI0OCIgcng9IjE5IiByeT0iMTUiLz48ZWxsaXBzZSBjeD0iMTkiIGN5PSIyOCIgcng9IjciIHJ5PSIxMCIgdHJhbnNmb3JtPSJyb3RhdGUoLTI1IDE5IDI4KSIvPjxlbGxpcHNlIGN4PSIzMyIgY3k9IjE5IiByeD0iNyIgcnk9IjEwIi8+PGVsbGlwc2UgY3g9IjQ4IiBjeT0iMTkiIHJ4PSI3IiByeT0iMTAiLz48ZWxsaXBzZSBjeD0iNjIiIGN5PSIyOCIgcng9IjciIHJ5PSIxMCIgdHJhbnNmb3JtPSJyb3RhdGUoMjUgNjIgMjgpIi8+PC9nPjwvc3ZnPg==">
   <style>:root{color-scheme:light;--ink:#173a35;--teal:#23685e;--paper:#fffaf1;--surface:#edf2e8;--line:#baccc0;--app-height:100dvh;--st:env(safe-area-inset-top,0px);--sr:env(safe-area-inset-right,0px);--sb:env(safe-area-inset-bottom,0px);--sl:env(safe-area-inset-left,0px);font-family:-apple-system,BlinkMacSystemFont,"PingFang TC","Microsoft JhengHei",sans-serif;font-size:18px;font-weight:400;color:var(--ink);-webkit-text-size-adjust:100%;text-size-adjust:100%;font-synthesis:none}
 *{box-sizing:border-box}html,body{margin:0;width:100%;height:100%;background:var(--paper);overscroll-behavior:none}body{line-height:1.65;overflow:hidden}h1,h2,h3,p{margin:0;color:var(--ink)}h1,h2,h3,strong{font-weight:600}button,a{font:inherit;color:inherit}button{cursor:pointer;min-height:52px;border:1px solid var(--line);border-radius:14px;padding:12px 16px;background:var(--surface);font-size:18px;font-weight:500;line-height:1.5;touch-action:manipulation;-webkit-tap-highlight-color:transparent}button:disabled{cursor:default;background:#e1e8e0;color:#48635a;border-color:#c7d3c8;opacity:1}button:focus-visible,a:focus-visible{outline:3px solid #986325;outline-offset:3px}button:active:not(:disabled),button.held{background:#d8e8df}button.primary{background:var(--teal);color:#fff;border-color:var(--teal)}button.primary:active:not(:disabled){background:#184f47}button.primary:disabled{background:#d5e0d6;color:#48635a;border-color:#bacbc0}.secondary{background:var(--paper)}[hidden]{display:none!important}.wide{width:100%}
@@ -204,7 +204,7 @@ button:focus-visible,a:focus-visible { outline-color:#b02a40; }
       <button id="title-info" class="secondary" data-text="help">怎樣玩</button>
       <button id="home-sources" class="secondary" data-text="sources">資料來源</button>
     </div>
-    <footer class="project-credit" data-credit="full">HKBU 香港浸會大學・GCAP3087 課程作業<br>提供予 HKGDA 香港導盲犬協會使用。<br>創作人：LI Shuming / Yuan keying / Fan Xiaowen / Cheng Huayan / HU boqian<br>© 2026 創作團隊。</footer>
+    <footer class="project-credit" data-credit="full">HKBU 香港浸會大學・GCAP3087 課程作業<br>提供予 HKGDA 香港導盲犬協會使用。<br>創作人：LI Shuming / Yuan keying / Fan Xiaowen / Cheng Huayan / HU boqian / Zhou Zhiyu<br>© 2026 創作團隊。</footer>
   </div>
 </section>
 <div id="modal-overlay" hidden>
@@ -838,7 +838,7 @@ function journeyFrame(journey,metrics) {
   return result;
 }
 
-const creators='LI Shuming / Yuan keying / Fan Xiaowen / Cheng Huayan / HU boqian';
+const creators='LI Shuming / Yuan keying / Fan Xiaowen / Cheng Huayan / HU boqian / Zhou Zhiyu';
 function creditText(language=0,full=true) {
   const identity=language?'HKBU Hong Kong Baptist University · GCAP3087 course project':'HKBU 香港浸會大學・GCAP3087 課程作業';
   const use=language?'Created for use by HKGDA (Hong Kong Guide Dogs Association).':'提供予 HKGDA 香港導盲犬協會使用。';
