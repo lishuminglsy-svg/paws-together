@@ -10,3 +10,5 @@ LI Shuming / Yuan keying / Fan Xiaowen / Cheng Huayan / HU boqian / Zhou Zhiyu
 Third-party marks and materials remain the property of their respective owners.
 
 本作新增背景音乐为原创合成配乐，未取用第三方录音或旋律。
+
+新增环境声、列车进站、开门及闸机音效为原创程序合成，未使用港铁或乐园官方录音。
