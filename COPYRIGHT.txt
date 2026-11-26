@@ -9,6 +9,15 @@ LI Shuming / Yuan keying / Fan Xiaowen / Cheng Huayan / HU boqian / Zhou Zhiyu
 第三方標誌及素材的權利歸原權利人所有。
 Third-party marks and materials remain the property of their respective owners.
 
-本作新增背景音乐为原创合成配乐，未取用第三方录音或旋律。
+本作三首配乐的旋律与编配为原创；钢琴音色使用以下开放许可的真实单音录音。
 
-新增环境声、列车进站、开门及闸机音效为原创程序合成，未使用港铁或乐园官方录音。
+事件提示音为原创合成，不含循环环境底噪；未使用港铁或乐园官方录音。
+
+Piano instrument samples / 钢琴音色采样：
+Salamander Grand Piano v3 — Alexander Holm
+Source: https://github.com/sfzinstruments/SalamanderGrandPiano
+MP3 distribution: https://github.com/Tonejs/audio/tree/master/salamander
+License: Creative Commons Attribution 3.0 Unported (CC BY 3.0)
+https://creativecommons.org/licenses/by/3.0/
+Changes: selected notes, pitch shifted, trimmed, gain adjusted and mixed to render the original compositions.
+许可正文及每个源文件的来源／哈希保留于 art/music/piano-samples。
