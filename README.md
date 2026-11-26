@@ -25,3 +25,5 @@ LI Shuming / Yuan keying / Fan Xiaowen / Cheng Huayan / HU boqian / Zhou Zhiyu
 
 钢琴采样：Salamander Grand Piano v3 — Alexander Holm，CC BY 3.0；采样经移调、裁切与混音，用于原创曲目。
 [采样来源](https://github.com/sfzinstruments/SalamanderGrandPiano) · [许可](https://creativecommons.org/licenses/by/3.0/)
+
+2026-11-27 R9: Renamed the three existing companions to 丁丁 / Ding Ding, 棉花 / Cotton, and 阿爾菲 / Alfie. Updated tag lettering and all bilingual dialogue, hints and feedback. Existing dog IDs, saved progress, illustrations, scenes and original QR URL are preserved. 48 automated checks passed.
